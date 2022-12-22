@@ -1,5 +1,5 @@
-<h1 align="center">😎 Hello,i'm u.sh !</h1>
-<h3 align="center">Hello, I'm u.sh a computer enthusiast, I'm currently working for Slayers Community as a founder and developer. I am a developer in Javascript, Java, Python, Lua, C, C#, C++ and I learn HTML, CSS</h3>
+<h1 align="center">😎 Hello,i'm Koaio !</h1>
+<h3 align="center">Hello, I'm Koaio a computer enthusiast, I'm currently working for AdastraLife as a founder and developer. I am a developer in Javascript, Java, Python, Lua, C, C#, C++ and I learn HTML, CSS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koaio&label=Profile%20views&color=0e75b6&style=flat" alt="koaio" /> </p>
 
