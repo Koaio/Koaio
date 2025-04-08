@@ -7,4 +7,4 @@
 ✉️ [Email](mailto:contactkoaio@gmail.com)
 
 ## 🔍 Work Stats
-![Koaio's Github stats](https://github-readme-stats.vercel.app/api?username=Koaio&show_icons=true)
+[![Koaio's Github stats](https://github-readme-stats.vercel.app/api?username=Koaio&show_icons=true)](https://github-readme-stats.vercel.app/api?username=Koaio&show_icons=true)
