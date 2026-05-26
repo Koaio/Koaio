@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Mathis (Koaio)
+## 👋 Hey, I'm Koaio
 
 💻 Passionate developer focused on web & software development.  
 I enjoy building backend systems, Discord bots, and experimenting with new technologies.
