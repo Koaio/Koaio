@@ -3,6 +3,8 @@
 💻 Passionate developer focused on web & software development.  
 I enjoy building backend systems, Discord bots, and experimenting with new technologies.
 
+🎓 Student at Epitech
+
 ---
 
 ## 🚀 What I do
